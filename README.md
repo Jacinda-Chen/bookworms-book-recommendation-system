@@ -12,4 +12,4 @@ The project pipeline includes text extraction, preprocessing, TF-IDF similarity,
 
 - `scripts/`: final pipeline scripts
 - `scripts/v1/`: earlier pipeline versions and experiments
-- `data/db/`: Tableau-related files
+- `data/db/`: Tableau-related files --> Files were too big to load
